@@ -2,8 +2,6 @@
 
 A skill that teaches agents to talk like a conversation partner instead of dumping a briefing.
 
-[![skills.sh](https://skills.sh/b/PattoPeraltta/back-and-forth)](https://skills.sh/PattoPeraltta/back-and-forth)
-
 Follows the [Agent Skills](https://agentskills.io/) format. Works with Cursor, Claude Code, Codex, and any agent that can load `SKILL.md`.
 
 ![Without the skill, the agent dumps a wall of text. With it, the agent answers in one beat and waits.](assets/before-after.png)
