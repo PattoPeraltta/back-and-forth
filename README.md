@@ -1,6 +1,6 @@
 # conversational-continue
 
-A short LLM skill: keep replies conversational and brief, and let the user re-question, dig deeper, or say `continue` on larger topics.
+LLM skill: talk like a conversation partner. Short replies. One beat at a time on larger topics, so the user can re-question, dig deeper, or say `continue`.
 
 ```bash
 npx skills add PattoPeraltta/conversational-continue
