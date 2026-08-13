@@ -21,24 +21,6 @@ This skill flips that. One beat. Then wait. You stay in control.
 - You want to re-question, dig deeper, or say `continue`
 - A long answer would be better paced than dumped
 
-## How it behaves
-
-Keep replies short. Lead with the point. Skip preamble.
-
-On larger topics, cover one beat, then stop. Do not dump the rest unless asked.
-
-![Three user moves: re-question, dig deeper, or continue.](assets/user-moves.png)
-
-The user can:
-
-| You say | The agent does |
-| --- | --- |
-| re-question | answers the new question, still short |
-| dig deeper | goes one level down on the current beat |
-| `continue` | takes the **next** beat only, still short |
-
-`continue` is not permission to unload the rest of the outline.
-
 ## Example
 
 ```
